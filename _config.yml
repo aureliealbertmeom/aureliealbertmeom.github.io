@@ -10,28 +10,28 @@ name: Aurélie Albert
 title: Research Engineer
 email: aurelie.albert@univ-grenoble-alpes.fr
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+#phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: 
+#twitter_username: 
 github_username:  aureliealbertmeom
-stackoverflow_username: 
-dribbble_username: jekyll
-facebook_username: 
-flickr_username: 
-instagram_username: 
-linkedin_username: 
-xing_username: 
-pinterest_username: 
-youtube_username: 
+#stackoverflow_username: 
+#dribbble_username: 
+#facebook_username: 
+#flickr_username: 
+#instagram_username: 
+#linkedin_username: 
+#xing_username: 
+#pinterest_username: 
+#youtube_username: 
 orcid_username: 0000-0001-7783-5629
-googlescholar_username: 
+#googlescholar_username: 
 
 # Additional icon links
 additional_links:
@@ -50,9 +50,12 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/portrait.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi ! I am a research engineer specialized in modeling the ocean
+  Hi ! I am a research engineer specialized in modeling the physics of the ocean and sea-ice and marine biogeochemistry.
+  I mainly produce high resolution runs, manage the data they generate and develop analyis tools that are scaled for big data.
+  Recently I participated in the creation of IGE' numerical plateform PING and co-lead it since.
+
 
 
 content:
